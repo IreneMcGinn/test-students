@@ -1,11 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 * {
-  font-family: 'josefin-sans';
+  font-family: 'Josefin Sans', sans-serif;
 }
 body {
   margin-bottom: 20%;
-font-family: 'Josefin Sans', sans-serif;
 }
 
 /* header 'design is thinking made visual' */
