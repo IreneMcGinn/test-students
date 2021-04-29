@@ -1,3 +1,7 @@
+
+@charset "UTF-8";
+/* CSS Document */
+
 /* latin-ext */
 @font-face {
   font-family: 'Abril Fatface';
@@ -46,8 +50,6 @@
 
 
 
-@charset "UTF-8";
-/* CSS Document */
 * {
   font-family: 'Josefin Sans', sans-serif;
 }
