@@ -1,10 +1,7 @@
-
 @charset "UTF-8";
 /* CSS Document */
-
-
 * {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'josefin-sans';
 }
 body {
   margin-bottom: 20%;
@@ -136,7 +133,7 @@ section {
 
 }
 #headingOne1 .mb-0 a {
-  font-family: 'Abril Fatface';
+  font-family: abril-fatface;
   font-style: normal;
   font-weight: 400;
   color: #EFBB96;
